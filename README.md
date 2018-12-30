@@ -1,0 +1,2 @@
+# hello
+pierwszy projekt kratków
